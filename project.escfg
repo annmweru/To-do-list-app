@@ -1,0 +1,26 @@
+[
+    [
+        "ChipType",
+        "ES32F0500LKE"
+    ],
+    [
+        "cleanFlag",
+        true
+    ],
+    [
+        "ProjectType",
+        "HR32Bit"
+    ],
+    [
+        "ToolChain",
+        ""
+    ],
+    [
+        "TargetPath",
+        "Debug"
+    ],
+    [
+        "Name",
+        "to do list"
+    ]
+]
